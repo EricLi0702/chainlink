@@ -1,0 +1,17 @@
+type Chain {
+    id: ID!
+    enabled: Boolean!
+    nodes: [Node!]!
+    createdAt: Time!
+    updatedAt: Time!
+}
+
+# TODO - Add Chain config into the response.
+# Config    types.ChainCfg `json:"config"`
+
+union ChainPayload = Chain | NotFoundError
+
+type ChainsPayload implements PaginatedPayload {
+    results: [Chain!]!
+    metadata: PaginationMetadata!
+}
