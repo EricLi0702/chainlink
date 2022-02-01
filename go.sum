@@ -320,8 +320,8 @@ github.com/ethereum/go-ethereum v1.9.24/go.mod h1:JIfVb6esrqALTExdz9hRYvrP0xBDf6
 github.com/ethereum/go-ethereum v1.9.25/go.mod h1:vMkFiYLHI4tgPw4k2j4MHKoovchFE8plZ0M9VMk4/oM=
 github.com/ethereum/go-ethereum v1.10.3/go.mod h1:99onQmSd1GRGOziyGldI41YQb7EESX3Q4H41IfJgIQQ=
 github.com/ethereum/go-ethereum v1.10.4/go.mod h1:nEE0TP5MtxGzOMd7egIrbPJMQBnhVU3ELNxhBglIzhg=
-github.com/ethereum/go-ethereum v1.10.11 h1:KKIcwpmur9iTaVbR2dxlHu+peHVhU+/KX//NWvT1n9U=
-github.com/ethereum/go-ethereum v1.10.11/go.mod h1:W3yfrFyL9C1pHcwY5hmRHVDaorTiQxhYBkKyu5mEDHw=
+github.com/ethereum/go-ethereum v1.10.15 h1:E9o0kMbD8HXhp7g6UwIwntY05WTDheCGziMhegcBsQw=
+github.com/ethereum/go-ethereum v1.10.15/go.mod h1:W3yfrFyL9C1pHcwY5hmRHVDaorTiQxhYBkKyu5mEDHw=
 github.com/fasthttp-contrib/websocket v0.0.0-20160511215533-1f3b11f56072/go.mod h1:duJ4Jxv5lDcvg4QuQr0oowTf7dz4/CR8NtyCooz9HL8=
 github.com/fatih/color v1.3.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
